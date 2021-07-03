@@ -17,6 +17,7 @@
 // let amount = 0;
 // while (amount++ < Max) {
 //     let sum = amount
+// console.log(sum);
 // }
 // console.log(sum);
 
